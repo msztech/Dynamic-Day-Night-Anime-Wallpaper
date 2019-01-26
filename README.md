@@ -28,3 +28,9 @@ Presents the user basic interface and file selector to allow users to choose a p
 
 ### [confirmView.swift](https://github.com/msztech/Dynamic-Day-Night-Anime-Wallpaper/blob/master/Dynamic%20Anime%20Wallpaper/confirmView.swift)
 This view shows the result of the ML Vision recognition through a TableView. You can click on the cell (image name) to switch its status (day/ night)
+
+## Why make this app?
+I make a lot of other apps and have projects. This project is built just for fun and for experimenting the possible applications of Core ML.
+
+## License
+Please refer to the LICENSE file in the root directly by clicking [here](https://github.com/msztech/Dynamic-Day-Night-Anime-Wallpaper/blob/master/LICENSE.md). Your contribution to this repo will also be cited if, in the future, this app is published by me.
