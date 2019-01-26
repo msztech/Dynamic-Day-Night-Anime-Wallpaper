@@ -66,7 +66,7 @@ class confirmView : NSViewController{
     }
     
     func start(){
-        wallpaperTimer = Timer.scheduledTimer(withTimeInterval: 10, repeats: true) { (timer) in
+        wallpaperTimer = Timer.scheduledTimer(withTimeInterval: 3600, repeats: true) { (timer) in
             self.changeWallPaper()
         }
         Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { (timer) in
